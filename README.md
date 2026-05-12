@@ -19,9 +19,9 @@ I’m a data-focused person with a strong passion for Power BI and a drive to ma
 When I'm not working with data, I enjoy juggling, double bass playing and Hiking.I’m driven by those moments when data brings new insights to light.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://Standing-Stones-Data.github.io/)
+### [ Check Out My Full Portfolio Website](https://Standing-Stones-Data.github.io/)
       
-## 🔭 What I'm Currently Working On 
+##  What I'm Currently Working On 
 
 - **Project A:** Personal Power BI Reports with QLD State Government Housing Data  
 - **Project B:** Personal Power BI Reports with Transport for NSW Data
